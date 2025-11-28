@@ -1,0 +1,31 @@
+{
+  "name": "tabclone.com.br",
+  "version": "0.0.1",
+  "description": "Implementação de ponta a ponta do https://tabnews.com.br.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunohpdabreu/tabclone.com.br.git"
+  },
+  "keywords": [
+    "devbeta",
+    "nextjs",
+    "nodejs",
+    "reactjs",
+    "vercel"
+  ],
+  "author": "Bruno Abreu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brunohpdabreu/tabclone.com.br/issues"
+  },
+  "homepage": "https://github.com/brunohpdabreu/tabclone.com.br#readme",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
